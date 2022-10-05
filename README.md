@@ -13,7 +13,7 @@ If using a Pi, we recommend installing as follows:
 ```
 mkdir ~/reelyActive
 cd ~/reelyActive
-git clone https://github.com/reelyactive/audible-proximity.git
+git clone https://github.com/GenieLabMtl/audible-proximity_GenieLab.git
 cd audible-proximity
 npm install
 ```
